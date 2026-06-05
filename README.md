@@ -164,13 +164,13 @@ npm run dev
 
 ---
 
-## 👥 Team
+## 👥 Team 
 
 Build-A-Thon Project Team
 
-* Venkata Bindu Madhav Tanguturi
-* Abhishek Sonti
-* Divya Sri Teku
+* Venkata Bindu Madhav Tanguturi (Team Lead)
+* Abhishek Sonti (Development & Implementation)
+* Divya Sri Teku (Research, Testing & Documentation)
 
 ---
 
